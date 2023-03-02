@@ -59,3 +59,7 @@ typings/
 
 # we only use package-lock.json in dev, so we ignore it
 package-lock.json
+
+Oak1585-public.pem
+Oak1585_PRIVATE.pem
+Oak1585.pfx
