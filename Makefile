@@ -1,5 +1,5 @@
 toplevel := $(shell git rev-parse --show-toplevel)
-possum_pem := $(toplevel)/local.pem
+possum_pem := $(toplevel)/keys/local.pem
 possum_zip := $(toplevel)/possum.zip
 possum_crx := $(toplevel)/possum.crx
 

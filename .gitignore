@@ -64,3 +64,5 @@ Oak1585-public.pem
 Oak1585_PRIVATE.pem
 Oak1585.pfx
 Oak1585.pem
+local.pem
+keys/
